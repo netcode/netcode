@@ -5,7 +5,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=netcode&show_icons=true" />
 </a>
 <a href="https://github.com/netcode">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netcode&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netcode" />
 </a>
 
 <!--
