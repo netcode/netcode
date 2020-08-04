@@ -21,7 +21,7 @@ I'm a software/security/product guy, love building and breaking things
 ![stats](https://github-readme-stats.vercel.app/api?username=netcode&show_icons=true)
 
 ##### Reach me on 
-[![Twitter](https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/net_code)
+[![Twitter](https://img.shields.io/badge/twitter--net_code-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/net_code)
 
 <!--
 **netcode/netcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
